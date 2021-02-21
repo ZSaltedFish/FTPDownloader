@@ -1,0 +1,14 @@
+﻿<UserControl x:Class="WpfLib.DownloadPanel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfLib"
+             mc:Ignorable="d" 
+             d:DesignHeight="53.661" Width="400.05">
+    <Grid Margin="0,0,10,0.333">
+        <ProgressBar x:Name="ProcBar" Height="10" Margin="10,35,9.333,0" VerticalAlignment="Top"/>
+        <Button x:Name="DownloadBtn" Content="下载" Margin="0,7,9,0" VerticalAlignment="Top" Click="DownloadBtn_Click" Height="23" HorizontalAlignment="Right" Width="76"/>
+        <TextBox x:Name="LinkPath" Height="23" Margin="10,7,90,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+    </Grid>
+</UserControl>

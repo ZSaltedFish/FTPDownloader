@@ -1,0 +1,17 @@
+C:\Users\a2633\source\repos\WpfApp1\WpfLib\bin\Debug\WpfLib.dll
+C:\Users\a2633\source\repos\WpfApp1\WpfLib\bin\Debug\WpfLib.pdb
+C:\Users\a2633\source\repos\WpfApp1\WpfLib\obj\Debug\BasePanel.g.cs
+C:\Users\a2633\source\repos\WpfApp1\WpfLib\obj\Debug\WpfLib_MarkupCompile.cache
+C:\Users\a2633\source\repos\WpfApp1\WpfLib\obj\Debug\WpfLib_MarkupCompile.lref
+C:\Users\a2633\source\repos\WpfApp1\WpfLib\obj\Debug\BasePanel.baml
+C:\Users\a2633\source\repos\WpfApp1\WpfLib\obj\Debug\WpfLib.g.resources
+C:\Users\a2633\source\repos\WpfApp1\WpfLib\obj\Debug\WpfLib.Properties.Resources.resources
+C:\Users\a2633\source\repos\WpfApp1\WpfLib\obj\Debug\WpfLib.csproj.GenerateResource.cache
+C:\Users\a2633\source\repos\WpfApp1\WpfLib\obj\Debug\WpfLib.csproj.CoreCompileInputs.cache
+C:\Users\a2633\source\repos\WpfApp1\WpfLib\obj\Debug\WpfLib.dll
+C:\Users\a2633\source\repos\WpfApp1\WpfLib\obj\Debug\WpfLib.pdb
+C:\Users\a2633\source\repos\WpfApp1\WpfLib\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\a2633\source\repos\WpfApp1\WpfLib\obj\Debug\DownloadPanel.g.cs
+C:\Users\a2633\source\repos\WpfApp1\WpfLib\obj\Debug\DownloadPanel.baml
+C:\Users\a2633\source\repos\WpfApp1\WpfLib\obj\Debug\UpdatePanel.g.cs
+C:\Users\a2633\source\repos\WpfApp1\WpfLib\obj\Debug\UpdatePanel.baml

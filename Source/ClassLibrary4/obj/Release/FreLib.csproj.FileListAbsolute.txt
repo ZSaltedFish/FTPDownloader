@@ -1,0 +1,6 @@
+C:\Users\a2633\source\repos\WpfApp1\ClassLibrary4\bin\Release\ClassLibrary4.dll
+C:\Users\a2633\source\repos\WpfApp1\ClassLibrary4\bin\Release\ClassLibrary4.pdb
+C:\Users\a2633\source\repos\WpfApp1\ClassLibrary4\obj\Release\FreLib.csprojAssemblyReference.cache
+C:\Users\a2633\source\repos\WpfApp1\ClassLibrary4\obj\Release\FreLib.csproj.CoreCompileInputs.cache
+C:\Users\a2633\source\repos\WpfApp1\ClassLibrary4\obj\Release\ClassLibrary4.dll
+C:\Users\a2633\source\repos\WpfApp1\ClassLibrary4\obj\Release\ClassLibrary4.pdb

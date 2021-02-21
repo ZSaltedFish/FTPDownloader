@@ -1,0 +1,12 @@
+﻿<Window x:Class="WpfApp3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp3"
+        mc:Ignorable="d"
+        x:Name="FTPDownload"
+        Title="FtpDownloader" Height="119.518" Width="449.584">
+    <Grid x:Name="BaseGrid" Margin="0,10,2.667,1.333">
+    </Grid>
+</Window>

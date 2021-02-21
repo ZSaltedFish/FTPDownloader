@@ -1,0 +1,15 @@
+C:\Users\a2633\source\repos\WpfApp1\WpfApp3\bin\Release\WpfApp3.exe.config
+C:\Users\a2633\source\repos\WpfApp1\WpfApp3\bin\Release\WpfApp3.exe
+C:\Users\a2633\source\repos\WpfApp1\WpfApp3\bin\Release\WpfApp3.pdb
+C:\Users\a2633\source\repos\WpfApp1\WpfApp3\obj\Release\WpfApp3.csprojAssemblyReference.cache
+C:\Users\a2633\source\repos\WpfApp1\WpfApp3\obj\Release\MainWindow.g.cs
+C:\Users\a2633\source\repos\WpfApp1\WpfApp3\obj\Release\App.g.cs
+C:\Users\a2633\source\repos\WpfApp1\WpfApp3\obj\Release\WpfApp3_MarkupCompile.cache
+C:\Users\a2633\source\repos\WpfApp1\WpfApp3\obj\Release\WpfApp3_MarkupCompile.lref
+C:\Users\a2633\source\repos\WpfApp1\WpfApp3\obj\Release\MainWindow.baml
+C:\Users\a2633\source\repos\WpfApp1\WpfApp3\obj\Release\WpfApp3.g.resources
+C:\Users\a2633\source\repos\WpfApp1\WpfApp3\obj\Release\WpfApp3.Properties.Resources.resources
+C:\Users\a2633\source\repos\WpfApp1\WpfApp3\obj\Release\WpfApp3.csproj.GenerateResource.cache
+C:\Users\a2633\source\repos\WpfApp1\WpfApp3\obj\Release\WpfApp3.csproj.CoreCompileInputs.cache
+C:\Users\a2633\source\repos\WpfApp1\WpfApp3\obj\Release\WpfApp3.exe
+C:\Users\a2633\source\repos\WpfApp1\WpfApp3\obj\Release\WpfApp3.pdb
